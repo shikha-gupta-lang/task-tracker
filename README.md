@@ -4,7 +4,7 @@ A beautiful, user-friendly task tracking application built with React — includ
 
 ## 🚀 Live Demo
 
-🔗 [Visit the Live App](https://task-tracker-yourname.vercel.app/)
+🔗 [Visit the Live App](https://task-tracker-by-shikha.netlify.app/)
 
 ## 🎯 Features
 
